@@ -1,0 +1,8 @@
+# Requirements placeholder 
+fastapi
+uvicorn
+pytesseract
+Pillow
+pdf2image
+chromadb
+sentence-transformers 

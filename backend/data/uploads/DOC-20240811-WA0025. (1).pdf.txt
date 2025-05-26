@@ -1,0 +1,98 @@
+HEERAK KASHYAP
+
+ACADEMIC PROFILE
+Degree/Certificate| Institution Percentage/CGPA|
+
+B-Tech Electrical Engineering IIT (BHU), Varanasi 8.42
+CBSE (XII) DAV public school, Amritsar 88.80
+CBSE (X) Dav public school, Lawrence road Amritsar 88.00
+
+SKILLS
+
+Exposure
+e Programming Languages: C, C++, Python
+e Exposure: Machine Learning, Data Science, Deep Learning, NLP
+
+PROJECTS
+
+Sentiment Analysis of IMDB reviews using LSTM Model
+
+e Visualized IMDB reviews for the movies that were annotated in positive, neutral or negative classes, made sureData
+Imbalance was not there, DataPre-Processing was done.
+
+e further Tokenization and Pad sequences were applied to the data, we set up theL STM model with Embedding,
+Lstm and Dense Layers, compiled the model withAdam, binary Cross entropy and metrics as Accuracy.
+
+« Trained the model with5 epochs, Model Evaluation was done with92% Accuracy on Test data and finally made a
+predictive system.
+
+Face Mask Recognition using CNN Model
+
+¢ Changed the labels for the collected dataset inBinary digits, followed by Image Processing by doing Image Resizing
+& converting in NumPy Arrays.
+
+« After performing train test data split, scaling of data set was done andCNN model was being prepared.
+
+¢ TensorFlow and Keras Lib were used, further Sequential model along with Conv2D, MaxPooling2D, Flatten,
+
+Dense, Dropoutwere used.
+
+Compiling of Neural Network was done using adam, categorical crossentropy, acc as metrics then Training of CNN
+was done and model Evaluation was done on Test data with >93% accuracy.
+
+** SMS/E- Mail Spam and ham Classifier Model**
+
+e using TF-IDF Vectorizer, an end-to-end model was built and deployed onHeroku .Performed EDA and Data Cleaning
+on the dataset , further Feature Engineering and Tokenization was done.
+
+e Tokenized data was Pre-processed. Word Cloud, Pair-plot, Hist plot and Correlation was used to display the
+relationship n/w various features, created a Multinomial Naive bayes model that predicted input text as Spam/ham
+and used this model as Performance baseline, gaining precision_score : 1 and Accuracy > 99%
+
+¢ Tried using Voting Classifier to boost the Performance, compared the model performance by using other models :
+ETC, KN and finally created a website and deployed onHeroku.
+
+CERTIFIED COURSES
+
+Microsoft Azure Artificial Intelligence Fundamentals (Al-900)
+
+Passed the Al-900 Exam
+
+Scored 850/1000 in Microsoft Azure Al Fundamentals Exam (Al-900) and Required score to Pass the Exam - 700
+Machine Learning 1 month (22 june - 22 july)
+1 month of Internship in ML
+
+Completed 2 months of Training/Internship at Wayspire EdTech Pvt Ltd in Artificial Intelligence and Machine Learning.
+
+POSITION OF RESPONSIBILITY
+
+Video Editor
+
+served as Video Editor/grapher for departmental fest video
+
+Captured some amazing drone shots of Electrical department and also helped senior in Editing major clips for the
+respected video.
+
+DFZ 1 month
+Choreographed/participated in Outfest'23
+
+Participated as a core member for the outfest'23 held in NIT Kurukshetra
+
+HONOURS AND ACHIEVEMENTS
+
+MIT (Manipal Institute of Technology ) Exam
+Among top 0.6% of candidates who appeared for MIT exam , securing AIR - 1325
+EXTRA-CURRICULAR ACTIVITIES
+
+G-20 1 month
+represented IIT BHU During G-20 summit from DFZ
+Performed Bhangra in a group dance in front of various representatives from various countries choreographed by myself
+and other team partner .
+Powerlifting
+Arm-wrestling Competition (IMS BHU )
+Participated in Arm -wrestling competition held in IMS BHU and secured 1st position in ( 85> kgs ) Category .
+Powerlifting
+Deadlift Competition
+Participated in deadlift competition during Gc Boys and secured 3rd place in ( 69-77 kgs ) Category .
+T: 7837013966 E: kashyapheerk@gmail.com Address: B-566 , Ranjit Avenue, Amritsar
+

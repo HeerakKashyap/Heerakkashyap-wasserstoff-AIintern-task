@@ -1,0 +1,30 @@
+# Language Switcher Consistency Enhancement - Task Description
+## Current Implementation
+
+- A language selection flag is available in the application to change the interface language
+- The language switcher is inconsistently displayed when users are not logged in
+
+- Some pages are missing this important accessibility feature
+
+## Requirements
+
+### 1. Add the Language Switcher to Non-Authenticated Pages
+
+Implement the language selector flag consistently across all non-authenticated pages,
+specifically:
+
+“laidVideo"
+
+= /Login®
+
+“/GuestUser
+
+= /Signup™
+
+*/SuperAdminSignUp™
+
+~“/UserSignup”
+- /ForgotPassword’
+
+*/ResetPassword?toker
+

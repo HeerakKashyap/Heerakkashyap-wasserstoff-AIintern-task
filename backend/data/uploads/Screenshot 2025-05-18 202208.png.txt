@@ -1,0 +1,68 @@
+iP http://localhost:5000/legal/get_user_notifications
+
+(DB Save v Share
+
+POST Y __ http://localhost:5000/legal/get_user_notifications
+
+te]
+
+Params Authorization Headers (10) Body ® Scripts. _ Settings
+
+)none O form-data © x-www-form-urlencoded © raw © binary © GraphQL
+Key Value Description
+user_id Text gastgalindo@gmail.com
+Key Text Value Description
+
+Body Cookies (1) Headers (9) Test Results 200 OK
+{} JSONY DD Preview Q Visualize v
+
+46 “title": " New User Registration",
+
+a7 "type": "new_user_registration",
+
+48 “user_id": "gastgalindo@gmail.com"
+
+49 3,
+
+50 a
+
+51 “active false,
+
+52 “content”: “new user testuser9@yopmail.com has registered",
+
+53 “created_at": “Sun, 18 May 2025 14:49:02 GMT",
+
+54 “id": "6829f35ea10e28319b83e8b4",
+
+55 “meta": null,
+
+56 “subtitle": “User Registration Notification",
+
+57 “title": " New User Registration",
+
+58 "type": "new_user_registration",
+
+59 “user_id": "gastgalindo@gmail.com"
+
+60 EB
+
+61 1
+
+62 3
+
+ Postbot
+
+@ Runner
+
+© Start Proxy
+
+Cookies
+
+ee Bulk Edit
+
+6.525 2.37KB.~ Qo
+
+@ Cookies @ Vault [ Trash
+
+[ca]
+
