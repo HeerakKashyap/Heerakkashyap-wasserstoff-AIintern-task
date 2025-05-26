@@ -40,4 +40,13 @@ with gr.Blocks() as demo:
         search_output = gr.Textbox(label="Search Results")
         query_input.change(semantic_search, inputs=query_input, outputs=search_output)
 
-demo.launch()
+iface = gr.Interface(
+    fn=ocr_file,
+    inputs=gr.File(label="Upload PDF or Image"),
+    outputs=gr.Textbox(label="Extracted Text"),
+    title="Document OCR Demo",
+    description="Upload a PDF or image to extract text using OCR."
+)
+
+if __name__ == "__main__":
+    iface.launch()
