@@ -5,4 +5,5 @@ pytesseract
 Pillow
 pdf2image
 chromadb
-sentence-transformers 
+sentence-transformers
+gradio 
