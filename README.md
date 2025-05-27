@@ -1,4 +1,4 @@
-# Chatbot Theme Identifier 
+# Document Research & Theme Identification Chatbot
 
 ---
 
