@@ -9,13 +9,13 @@ collection = chroma_client.get_or_create_collection("documents")
 # Load sentence transformer model
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-def add_document(doc_id, text, metadata=None):
+def add_document(doc_id, text, metadata):
     embedding = model.encode(text).tolist()
     collection.add(
         ids=[doc_id],
         embeddings=[embedding],
         documents=[text],
-        metadatas=[metadata or {}]
+        metadatas=[metadata]
     )
 
 def query_documents(query, n_results=3):
