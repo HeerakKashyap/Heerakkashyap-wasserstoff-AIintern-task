@@ -61,6 +61,10 @@ Then visit [http://localhost:7860](http://localhost:7860)
 
 [https://huggingface.co/spaces/heerk30/docker-testing](https://huggingface.co/spaces/heerk30/docker-testing)
 
+![image](https://github.com/user-attachments/assets/5d822ee6-6d23-47f6-b36f-768c3e6df483)
+
+
+
 ---
 
 ## 📄 License
