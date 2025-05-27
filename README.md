@@ -16,13 +16,6 @@
 The app is designed to run in a Docker container.  
 **Key system dependencies (Poppler, Tesseract) are installed in the Dockerfile.**
 
-**To build and run locally:**
-```sh
-docker build -t doc-ocr-semantic .
-docker run -p 7860:7860 doc-ocr-semantic
-```
-Then visit [http://localhost:7860](http://localhost:7860)
-
 ---
 
 ## 📝 How to Use
