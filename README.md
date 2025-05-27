@@ -64,5 +64,3 @@ The app is designed to run in a Docker container.
 
 This project is for educational and demonstration purposes.
 
----
->>>>>>> 06688fca482914c143058169e51233c86f9e0143
